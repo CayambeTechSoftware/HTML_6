@@ -1,4 +1,4 @@
-# HTML_6 - Edificio
+# HTML_6 - Esfera 3D
 
 
 ![Captura de pantalla 2024-07-22 200204](https://github.com/user-attachments/assets/aa61f09f-6748-4f55-b52a-f594b1d1eb68)
